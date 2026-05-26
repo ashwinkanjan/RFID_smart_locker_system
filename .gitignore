@@ -1,0 +1,24 @@
+# Ignore build artifacts and temporary files
+*.o
+*.a
+*.d
+*.elf
+*.hex
+*.bin
+*.eep
+*.map
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Arduino / PlatformIO build folders
+build/
+.arduino_build/
+
+# VS Code local settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
